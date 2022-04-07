@@ -15,12 +15,12 @@
    <img width="45" src="https://cdn.svgporn.com/logos/php.svg"/>
 </div>
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/Gabriel-SantosXD">
    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-SantosXD&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-SantosXD&layout=compact&theme=codeSTACKr"/> 
 </div>
-  
+
 <div> 
   </a> 
  
