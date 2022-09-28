@@ -1,6 +1,6 @@
 ### Olá , Eu Sou Gabriel👋
 
-<img align="right"  width="150"  src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif"/>
+<img align="right"  width="150"  src="https://i.imgur.com/p1Dc4QQ.png"/>
 
 - 👤 Dev Em formação
 
