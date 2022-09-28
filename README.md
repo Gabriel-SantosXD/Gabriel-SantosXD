@@ -16,6 +16,7 @@
 - 💻 Atualmente faço parte do Bootcamp na Dio.me
 
 - 😄 Pronouns: ele/dele
+##
 </p>
 <div align="center">
    <img width="40" src="https://cdn.svgporn.com/logos/mysql-icon.svg"/>
