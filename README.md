@@ -30,7 +30,7 @@
 <div align="center">
   <a href="https://github.com/Gabriel-SantosXD">
    <img height="150vh" src="https://github-readme-stats.vercel.app/api?username=Gabriel-SantosXD&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-   <img height="150vh" width="200vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-SantosXD&layout=compact&theme=gotham"/>
+   <img height="150vh" width="300vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-SantosXD&layout=compact&theme=gotham"/>
 </div>
 <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl>
 <div align="center"> 
