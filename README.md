@@ -1,6 +1,7 @@
 ### Olá , Eu Sou Gabriel👋
 
-<img align="right"  width="150"  src="https://i.imgur.com/p1Dc4QQ.png"/>
+<!-- <img align="right"  width="150"  src="https://i.imgur.com/p1Dc4QQ.png"/> -->
+<script type='text/javascript'width="150" >document.addEventListener('DOMContentLoaded', function () {window.setTimeout(document.querySelector('svg').classList.add('animated'),1000);})</script>
 
 - 👤 Dev Em formação
 
