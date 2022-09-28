@@ -29,7 +29,7 @@
 
 <div align="center">
   <a href="https://github.com/Gabriel-SantosXD">
-   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Gabriel-SantosXD&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+   <img height="130" src="https://github-readme-stats.vercel.app/api?username=Gabriel-SantosXD&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
    <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-SantosXD&layout=compact&theme=gotham"/>
 </div>
 <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl>
