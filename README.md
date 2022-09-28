@@ -19,12 +19,7 @@
 - 😄 Pronouns: ele/dele
 ##
 </p>
-<div align="center">
-   <img width="40" src="https://cdn.svgporn.com/logos/mysql-icon.svg"/>
-   <img width="35" src="https://cdn.svgporn.com/logos/html-5.svg"/>
-   <img width="35" src="https://cdn.svgporn.com/logos/css-3.svg"/>
-   <img width="45" src="https://cdn.svgporn.com/logos/php.svg"/>
-</div>
+
 
 <div align="center">
   <a href="https://github.com/Gabriel-SantosXD">
