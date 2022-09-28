@@ -4,7 +4,7 @@
 
 - 👤 Dev Em formação
 
-- 💻 Atualmente faço parte do Bootcamp da Dio.me
+- 💻 Atualmente faço parte do Bootcamp na Dio.me
 
 - 😄 Pronouns: ele/dele
 
