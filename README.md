@@ -1,6 +1,6 @@
 ### Olá , Eu Sou Gabriel👋
 
-<img align="right"  width="150"  src="https://user-images.githubusercontent.com/81409520/192898584-0a9afaee-833c-4640-99f8-31519146afbb.png"/>
+<img src="https://i.imgur.com/7r39tuB.gif" min-width="280px" max-width="280px" width="280px" align="right" alt="Computador iuriCode">
 
 
 - 👤 Dev Em formação
