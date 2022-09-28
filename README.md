@@ -4,7 +4,7 @@
 
 - 👤 Dev Em formação
 
-- 💻 Atualmente faço parte do Bootcamp Oracle Next Education
+- 💻 Atualmente faço parte do Bootcamp da Dio.me
 
 - 😄 Pronouns: ele/dele
 
@@ -15,13 +15,7 @@
    <img width="45" src="https://cdn.svgporn.com/logos/php.svg"/>
 </div>
 
-<div align="center">
-  <a href="https://github.com/Gabriel-SantosXD">
-   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-SantosXD&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-SantosXD&layout=compact&theme=codeSTACKr"/> 
-</div>
 
-<div> 
   </a> 
  
   <a href="mailto:gabrielsantosalvarezmagalhaes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
