@@ -26,6 +26,7 @@
 
 <div align="center">
    <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
    <img width="40" src="https://cdn.svgporn.com/logos/mysql-icon.svg"/>
    <img width="35" src="https://cdn.svgporn.com/logos/html-5.svg"/>
    <img width="35" src="https://cdn.svgporn.com/logos/css-3.svg"/>
