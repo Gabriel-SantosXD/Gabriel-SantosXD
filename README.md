@@ -29,7 +29,7 @@
    <img width="35" src="https://cdn.svgporn.com/logos/html-5.svg"/>
    <img width="35" src="https://cdn.svgporn.com/logos/css-3.svg"/>
    <img width="45" src="https://cdn.svgporn.com/logos/php.svg"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+   <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
 
 <div align="center">
