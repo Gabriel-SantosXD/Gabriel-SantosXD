@@ -14,9 +14,13 @@
    
 - 👤 Dev Em formação
 
-- 💻 Atualmente faço parte do Bootcamp na Dio.me
+- 💻 Atualmente faço parte do Bootcamp Quebéc na dio.me
 
 - 😄 Pronouns: ele/dele
+
+```js
+   alert("Falar é fácil, me mostre os códigos");
+```
 ##
 </p>
 
