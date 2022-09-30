@@ -14,7 +14,7 @@
    
 - 👤 Dev Em formação
 
-- 💻 Atualmente faço parte do Bootcamp Québec na dio.me
+- 💻 Atualmente faço parte do Bootcamp Québec Java Digital na dio.me
 
 - 😄 Pronouns: ele/dele
 
