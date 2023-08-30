@@ -14,7 +14,7 @@
    
 - 👤 Dev Em formação
 
-- 💻 Atualmente faço parte do Bootcamp Microsoft Dynamics 365 na dio.me
+<!-- - 💻 Atualmente faço parte do Bootcamp Microsoft Dynamics 365 na dio.me -->
 
 - 😄 Pronouns: ele/dele
 
