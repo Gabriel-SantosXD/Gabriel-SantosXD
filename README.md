@@ -5,8 +5,8 @@
 
 #### Olá , Eu Sou Gabriel👋
 ##
-```C#
-   Programador Gabriel = new Programador();
+```lua
+   Local Gabriel <const> = "New Programador"
 ```
 
 </p>
@@ -16,8 +16,8 @@
 
 - 😄 Pronouns: ele/dele
 
-```js
-   alert("Falar é fácil, me mostre os códigos");
+```lua
+   print("Falar é fácil, me mostre os códigos")
 ```
 ##
 </p>
