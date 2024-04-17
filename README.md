@@ -5,14 +5,15 @@
 
 #### Olá , Eu Sou Gabriel👋
 ##
-```lua
-   Local Gabriel <const> = "New Programador"
+```js
+   const Gabriel = "New Programador";
+   console.log(Gabriel);
 ```
 
 </p>
 <p>
    
-- 👤 Dev Em formação
+- 👤 Dev Front-end
 
 - 😄 Pronouns: ele/dele
 
