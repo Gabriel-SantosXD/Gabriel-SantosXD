@@ -24,9 +24,7 @@
 </p>
 
 <div align="center">
-   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-   <img width="40" src="https://cdn.svgporn.com/logos/mysql-icon.svg"/>
+
    <img width="35" src="https://cdn.svgporn.com/logos/html-5.svg"/>
    <img width="35" src="https://cdn.svgporn.com/logos/css-3.svg"/>
 
@@ -41,7 +39,6 @@
 <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl>
 <div align="center"> 
   </a> 
-  <a href="mailto:gabrielsantosalvarezmagalhaes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-santos-86360019b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 </dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd>
