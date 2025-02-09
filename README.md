@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Gabriel!
-
-<img src="https://w7.pngwing.com/pngs/102/368/png-transparent-pixel-art-fish-fish-animals-text-orange.png" min-width="280px" max-width="280px" width="280px" align="right" alt="Pixel Art Fish">
+<!--
+<img src="https://w7.pngwing.com/pngs/102/368/png-transparent-pixel-art-fish-fish-animals-text-orange.png" min-width="280px" max-width="280px" width="280px" align="right" alt="Pixel Art Fish"> -->
 
 ```js
 const Gabriel = "New Programador";
